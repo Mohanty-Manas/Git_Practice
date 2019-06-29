@@ -1,1 +1,1 @@
-This is master branch a.txt file
+This is master branch modified a.txt file
